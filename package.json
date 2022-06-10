@@ -1,0 +1,21 @@
+{
+  "name": "nfactorial-homework-0610-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "echo git add . && git commit -m"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chingizof/nfactorial-homework-0610-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chingizof/nfactorial-homework-0610-npm/issues"
+  },
+  "homepage": "https://github.com/chingizof/nfactorial-homework-0610-npm#readme"
+}
