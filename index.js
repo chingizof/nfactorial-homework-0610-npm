@@ -1,16 +1,16 @@
-darkBtn = document.getElementById("dark-theme")
-lightBtn = document.getElementById("light-theme")
-body = document.getElementById("body")
-cookie = document.getElementById("cookie")
+const darkBtn = document.getElementById("dark-theme")
+const lightBtn = document.getElementById("light-theme")
+const body = document.getElementById("body")
+const cookie = document.getElementById("cookie")
 
 function setNight() {
     console.log("night")
-    body.style.background = "black";
+    document.body.style.background = "black";
 }
 
 function setDay() {
     console.log("day")
-    body.style.background = "white";//deaf
+    document.body.style.background = "white";//deaf
 }
 
 function addCookie() {
