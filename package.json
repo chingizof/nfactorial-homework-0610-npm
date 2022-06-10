@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "push": "git add . && git commit -m 'ji' && git push -u"
+    "push": "git add . && git commit -m 'automated commit' && git push"
   },
   "repository": {
     "type": "git",

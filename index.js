@@ -10,7 +10,7 @@ function setNight() {
 
 function setDay() {
     console.log("day")
-    body.style.background = "white";
+    body.style.background = "white";//deaf
 }
 
 function addCookie() {
