@@ -21,3 +21,4 @@ function addCookie() {
 darkBtn.addEventListener("click", setNight)
 lightBtn.addEventListener("click", setDay)
 cookie.addEventListener("click", addCookie)
+//fefaef
